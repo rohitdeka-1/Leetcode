@@ -8,11 +8,13 @@ Feel free to browse, learn, and contribute!
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0454-4sum-ii) |
 | [0811-subdomain-visit-count](https://github.com/rohitdeka-1/Leetcode/tree/master/0811-subdomain-visit-count) |
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0454-4sum-ii) |
 | [0811-subdomain-visit-count](https://github.com/rohitdeka-1/Leetcode/tree/master/0811-subdomain-visit-count) |
 ## String
@@ -23,4 +25,16 @@ Feel free to browse, learn, and contribute!
 |  |
 | ------- |
 | [0811-subdomain-visit-count](https://github.com/rohitdeka-1/Leetcode/tree/master/0811-subdomain-visit-count) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
