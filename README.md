@@ -14,12 +14,14 @@ Feel free to browse, learn, and contribute!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rohitdeka-1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0454-4sum-ii) |
 | [0811-subdomain-visit-count](https://github.com/rohitdeka-1/Leetcode/tree/master/0811-subdomain-visit-count) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rohitdeka-1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0811-subdomain-visit-count](https://github.com/rohitdeka-1/Leetcode/tree/master/0811-subdomain-visit-count) |
 ## Counting
 |  |
@@ -37,4 +39,8 @@ Feel free to browse, learn, and contribute!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rohitdeka-1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
