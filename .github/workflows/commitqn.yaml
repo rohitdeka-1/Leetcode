@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - progress.txt
  
 permissions: 
   contents: write
@@ -16,7 +18,7 @@ jobs:
       - name: run 
         run: echo "This PR was Accepted and Merged!"
       - name: Check and merge
-        run: echo ${{github.event.head_commit.message}} >> progress.txt
+        run: echo "${{github.event.head_commit.message}}" >> progress.txt
       - name: Commit and push
         run: |
           git config --global user.name 'github-actions[bot]'
