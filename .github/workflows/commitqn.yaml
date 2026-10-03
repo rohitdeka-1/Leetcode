@@ -3,12 +3,12 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    types:
-      - closed 
+ 
+permissions: 
+  contents: write
+
 jobs:
-  on_merge:
-    if: github.event.pull_request.merged == true
+  on_merge_or_push:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -16,11 +16,11 @@ jobs:
       - name: run 
         run: echo "This PR was Accepted and Merged!"
       - name: Check and merge
-        run: echo ${{github.event.pull_request.title}} >> progress.txt
+        run: echo ${{github.event.head_commit.message}} >> progress.txt
       - name: Commit and push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@user.noreply.github.com'
           git add progress.txt
-          git commit -m "chore: add PR title to commit list"
+          git commit -m "chore: add PR title to commit list [skip ci]"
           git push
