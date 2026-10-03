@@ -80,4 +80,12 @@ Feel free to browse, learn, and contribute!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rohitdeka-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohitdeka-1/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohitdeka-1/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
