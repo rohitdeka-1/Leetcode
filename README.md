@@ -11,6 +11,7 @@ Feel free to browse, learn, and contribute!
 | [0219-contains-duplicate-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/rohitdeka-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0811-subdomain-visit-count](https://github.com/rohitdeka-1/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [2653-sliding-subarray-beauty](https://github.com/rohitdeka-1/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohitdeka-1/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -26,6 +27,7 @@ Feel free to browse, learn, and contribute!
 | [0387-first-unique-character-in-a-string](https://github.com/rohitdeka-1/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohitdeka-1/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/rohitdeka-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rohitdeka-1/Leetcode/tree/master/0567-permutation-in-string) |
 | [0811-subdomain-visit-count](https://github.com/rohitdeka-1/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [2653-sliding-subarray-beauty](https://github.com/rohitdeka-1/Leetcode/tree/master/2653-sliding-subarray-beauty) |
@@ -74,4 +76,8 @@ Feel free to browse, learn, and contribute!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rohitdeka-1/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rohitdeka-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
