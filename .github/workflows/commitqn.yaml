@@ -1,0 +1,26 @@
+name: Add what is commited
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types:
+      - closed 
+jobs:
+  on_merge:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: run 
+        run: echo "This PR was Accepted and Merged!"
+      - name: Check and merge
+        run: echo ${{github.event.pull_request.title}} >> progress.txt
+      - name: Commit and push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@user.noreply.github.com'
+          git add progress.txt
+          git commit -m "chore: add PR title to commit list"
+          git push
