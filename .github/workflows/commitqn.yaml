@@ -1,28 +1,102 @@
-name: Add what is commited
+name: LeetCode Progress Tracker
+
 on:
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - progress.txt
- 
-permissions: 
+  schedule:
+    - cron: "30 18 * * *"
+
+  workflow_dispatch:
+
+permissions:
   contents: write
 
 jobs:
-  on_merge_or_push:
+  update-progress:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - name: run 
-        run: echo "This PR was Accepted and Merged!"
-      - name: Check and merge
-        run: echo "${{github.event.head_commit.message}}" >> progress.txt
-      - name: Commit and push
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Scan LeetCode solutions
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@user.noreply.github.com'
+          python <<'PY'
+          import os
+          from pathlib import Path
+
+          repo = Path(".")
+          progress_file = repo / "progress.txt"
+
+          # Directories that are not LeetCode problems
+          ignored = {
+              ".git",
+              ".github",
+              ".vscode",
+              "node_modules",
+              "__pycache__",
+              ".idea"
+          }
+
+          # Read existing entries
+          if progress_file.exists():
+              existing = set(
+                  line.strip()
+                  for line in progress_file.read_text(
+                      encoding="utf-8"
+                  ).splitlines()
+                  if line.strip()
+              )
+          else:
+              existing = set()
+
+          # Find problem folders at the repository root
+          problem_folders = sorted(
+              folder.name
+              for folder in repo.iterdir()
+              if folder.is_dir()
+              and folder.name not in ignored
+              and not folder.name.startswith(".")
+          )
+
+          # Identify new problems
+          new_problems = [
+              name for name in problem_folders
+              if name not in existing
+          ]
+
+          if new_problems:
+              with progress_file.open(
+                  "a",
+                  encoding="utf-8"
+              ) as file:
+                  for problem in new_problems:
+                      file.write(problem + "\n")
+
+              print(f"Added {len(new_problems)} new problems:")
+              for problem in new_problems:
+                  print(f"+ {problem}")
+          else:
+              print("No new LeetCode problems found.")
+          PY
+
+      - name: Commit and push progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add progress.txt
-          git commit -m "chore: add PR title to commit list [skip ci]"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "Progress is already up to date."
+            exit 0
+          fi
+
+          git commit -m "chore: update LeetCode progress"
+          git push origin HEAD:main
