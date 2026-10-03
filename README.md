@@ -83,9 +83,14 @@ Feel free to browse, learn, and contribute!
 ## Linked List
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohitdeka-1/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohitdeka-1/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
