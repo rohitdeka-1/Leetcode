@@ -17,3 +17,4 @@
 0237-delete-node-in-a-linked-list
 0203-remove-linked-list-elements
 2095-delete-the-middle-node-of-a-linked-list
+0328-odd-even-linked-list
