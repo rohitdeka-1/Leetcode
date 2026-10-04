@@ -14,3 +14,4 @@
 2653-sliding-subarray-beauty
 2958-length-of-longest-subarray-with-at-most-k-frequency
 2962-count-subarrays-where-max-element-appears-at-least-k-times
+0237-delete-node-in-a-linked-list
