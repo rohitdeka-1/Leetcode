@@ -34,9 +34,19 @@ jobs:
           python <<'PY'
           import os
           from pathlib import Path
+          from datetime import datetime, timedelta, timezone
 
           repo = Path(".")
-          progress_file = repo / "progress.txt"
+          
+          # Calculate current time in IST (UTC+5:30)
+          ist = timezone(timedelta(hours=5, minutes=30))
+          now_ist = datetime.now(ist)
+          
+          # Always use yesterday's date in IST
+          yesterday_ist = now_ist - timedelta(days=1)
+          date_str = yesterday_ist.strftime('%Y-%m-%d')
+          
+          progress_file = repo / f"{date_str}-progress.txt"
 
           # Directories that are not LeetCode problems
           ignored = {
@@ -48,17 +58,15 @@ jobs:
               ".idea"
           }
 
-          # Read existing entries
-          if progress_file.exists():
-              existing = set(
-                  line.strip()
-                  for line in progress_file.read_text(
-                      encoding="utf-8"
-                  ).splitlines()
-                  if line.strip()
-              )
-          else:
-              existing = set()
+          # Read existing entries from ALL previous progress files
+          existing = set()
+          for pf in repo.glob("*-progress.txt"):
+              if pf.is_file():
+                  existing.update(
+                      line.strip()
+                      for line in pf.read_text(encoding="utf-8").splitlines()
+                      if line.strip()
+                  )
 
           # Find problem folders at the repository root
           problem_folders = sorted(
@@ -95,7 +103,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add progress.txt
+          git add *-progress.txt
 
           if git diff --cached --quiet; then
             echo "Progress is already up to date."
