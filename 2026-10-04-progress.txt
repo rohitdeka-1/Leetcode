@@ -1,1 +1,2 @@
 0142-linked-list-cycle-ii
+0382-linked-list-random-node
