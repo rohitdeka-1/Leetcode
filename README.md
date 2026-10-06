@@ -57,6 +57,7 @@ Feel free to browse, learn, and contribute!
 | [0567-permutation-in-string](https://github.com/rohitdeka-1/Leetcode/tree/master/0567-permutation-in-string) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Feel free to browse, learn, and contribute!
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohitdeka-1/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -142,4 +144,8 @@ Feel free to browse, learn, and contribute!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohitdeka-1/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
