@@ -1,3 +1,4 @@
 0023-merge-k-sorted-lists
 1171-remove-zero-sum-consecutive-nodes-from-linked-list
 1721-swapping-nodes-in-a-linked-list
+0024-swap-nodes-in-pairs
