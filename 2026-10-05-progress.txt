@@ -2,3 +2,4 @@
 1171-remove-zero-sum-consecutive-nodes-from-linked-list
 1721-swapping-nodes-in-a-linked-list
 0024-swap-nodes-in-pairs
+2130-maximum-twin-sum-of-a-linked-list
