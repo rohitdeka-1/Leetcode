@@ -31,6 +31,7 @@ Feel free to browse, learn, and contribute!
 | [0560-subarray-sum-equals-k](https://github.com/rohitdeka-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rohitdeka-1/Leetcode/tree/master/0567-permutation-in-string) |
 | [0811-subdomain-visit-count](https://github.com/rohitdeka-1/Leetcode/tree/master/0811-subdomain-visit-count) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2653-sliding-subarray-beauty](https://github.com/rohitdeka-1/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohitdeka-1/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
@@ -93,6 +94,7 @@ Feel free to browse, learn, and contribute!
 | [0328-odd-even-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/rohitdeka-1/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0707-design-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/0707-design-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohitdeka-1/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
