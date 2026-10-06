@@ -55,6 +55,7 @@ Feel free to browse, learn, and contribute!
 | [0142-linked-list-cycle-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/rohitdeka-1/Leetcode/tree/master/0567-permutation-in-string) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@ Feel free to browse, learn, and contribute!
 | [0707-design-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/0707-design-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohitdeka-1/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
