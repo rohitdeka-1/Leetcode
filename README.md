@@ -89,6 +89,7 @@ Feel free to browse, learn, and contribute!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohitdeka-1/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/rohitdeka-1/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/rohitdeka-1/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -111,6 +112,7 @@ Feel free to browse, learn, and contribute!
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/rohitdeka-1/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/rohitdeka-1/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
