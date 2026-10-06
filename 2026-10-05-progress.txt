@@ -1,1 +1,2 @@
 0023-merge-k-sorted-lists
+1171-remove-zero-sum-consecutive-nodes-from-linked-list
