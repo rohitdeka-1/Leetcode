@@ -21,6 +21,7 @@ Feel free to browse, learn, and contribute!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohitdeka-1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/rohitdeka-1/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/rohitdeka-1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rohitdeka-1/Leetcode/tree/master/0242-valid-anagram) |
@@ -52,6 +53,7 @@ Feel free to browse, learn, and contribute!
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/rohitdeka-1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/rohitdeka-1/Leetcode/tree/master/0567-permutation-in-string) |
@@ -92,6 +94,7 @@ Feel free to browse, learn, and contribute!
 | [0021-merge-two-sorted-lists](https://github.com/rohitdeka-1/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/rohitdeka-1/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rohitdeka-1/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0141-linked-list-cycle](https://github.com/rohitdeka-1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/rohitdeka-1/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -123,6 +126,7 @@ Feel free to browse, learn, and contribute!
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/rohitdeka-1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Reservoir Sampling
 |  |
