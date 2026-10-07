@@ -93,6 +93,7 @@ Feel free to browse, learn, and contribute!
 | [0024-swap-nodes-in-pairs](https://github.com/rohitdeka-1/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/rohitdeka-1/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/rohitdeka-1/Leetcode/tree/master/0382-linked-list-random-node) |
@@ -116,6 +117,7 @@ Feel free to browse, learn, and contribute!
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/rohitdeka-1/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/rohitdeka-1/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
