@@ -1,1 +1,2 @@
 0143-reorder-list
+1394-find-lucky-integer-in-an-array
