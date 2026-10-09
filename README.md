@@ -13,6 +13,7 @@ Feel free to browse, learn, and contribute!
 | [0454-4sum-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitdeka-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0811-subdomain-visit-count](https://github.com/rohitdeka-1/Leetcode/tree/master/0811-subdomain-visit-count) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rohitdeka-1/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2653-sliding-subarray-beauty](https://github.com/rohitdeka-1/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohitdeka-1/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rohitdeka-1/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -34,6 +35,7 @@ Feel free to browse, learn, and contribute!
 | [0567-permutation-in-string](https://github.com/rohitdeka-1/Leetcode/tree/master/0567-permutation-in-string) |
 | [0811-subdomain-visit-count](https://github.com/rohitdeka-1/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rohitdeka-1/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2653-sliding-subarray-beauty](https://github.com/rohitdeka-1/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohitdeka-1/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
@@ -51,6 +53,7 @@ Feel free to browse, learn, and contribute!
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rohitdeka-1/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0811-subdomain-visit-count](https://github.com/rohitdeka-1/Leetcode/tree/master/0811-subdomain-visit-count) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rohitdeka-1/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
