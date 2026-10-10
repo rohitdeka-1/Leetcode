@@ -97,6 +97,7 @@ Feel free to browse, learn, and contribute!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rohitdeka-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rohitdeka-1/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/rohitdeka-1/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rohitdeka-1/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
@@ -118,6 +119,7 @@ Feel free to browse, learn, and contribute!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rohitdeka-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0382-linked-list-random-node](https://github.com/rohitdeka-1/Leetcode/tree/master/0382-linked-list-random-node) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohitdeka-1/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
@@ -127,6 +129,7 @@ Feel free to browse, learn, and contribute!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rohitdeka-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rohitdeka-1/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rohitdeka-1/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/rohitdeka-1/Leetcode/tree/master/0143-reorder-list) |
