@@ -13,6 +13,7 @@ Feel free to browse, learn, and contribute!
 | [0454-4sum-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitdeka-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0811-subdomain-visit-count](https://github.com/rohitdeka-1/Leetcode/tree/master/0811-subdomain-visit-count) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rohitdeka-1/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rohitdeka-1/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2653-sliding-subarray-beauty](https://github.com/rohitdeka-1/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohitdeka-1/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -70,6 +71,7 @@ Feel free to browse, learn, and contribute!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rohitdeka-1/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -169,4 +171,8 @@ Feel free to browse, learn, and contribute!
 | ------- |
 | [0143-reorder-list](https://github.com/rohitdeka-1/Leetcode/tree/master/0143-reorder-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rohitdeka-1/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rohitdeka-1/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
