@@ -8,6 +8,7 @@ Feel free to browse, learn, and contribute!
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rohitdeka-1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0454-4sum-ii) |
@@ -154,6 +155,7 @@ Feel free to browse, learn, and contribute!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohitdeka-1/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/rohitdeka-1/Leetcode/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -175,4 +177,8 @@ Feel free to browse, learn, and contribute!
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rohitdeka-1/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rohitdeka-1/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
