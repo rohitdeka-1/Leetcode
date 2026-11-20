@@ -8,6 +8,7 @@ Feel free to browse, learn, and contribute!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohitdeka-1/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/rohitdeka-1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohitdeka-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -22,6 +23,7 @@ Feel free to browse, learn, and contribute!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohitdeka-1/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohitdeka-1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/rohitdeka-1/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/rohitdeka-1/Leetcode/tree/master/0141-linked-list-cycle) |
